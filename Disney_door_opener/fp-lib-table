@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Disney_door_opener)(type KiCad)(uri ${KIPRJMOD}/Disney_door_opener.pretty)(options "")(descr ""))
+)
