@@ -703,7 +703,7 @@ U 1 1 6485E55E
 P 2600 4800
 F 0 "J6" H 2680 4842 50  0000 L CNN
 F 1 "Conn_01x15" H 2680 4751 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 2600 4800 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" H 2600 4800 50  0001 C CNN
 F 3 "~" H 2600 4800 50  0001 C CNN
 	1    2600 4800
 	1    0    0    -1  
@@ -714,7 +714,7 @@ U 1 1 6487741E
 P 3850 4800
 F 0 "J7" H 3930 4842 50  0000 L CNN
 F 1 "Conn_01x15" H 3930 4751 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 3850 4800 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical" H 3850 4800 50  0001 C CNN
 F 3 "~" H 3850 4800 50  0001 C CNN
 	1    3850 4800
 	1    0    0    -1  
@@ -888,8 +888,8 @@ Wire Wire Line
 Text Label 2150 4700 0    50   ~ 0
 CLK
 Wire Wire Line
-	2400 4800 2150 4800
-Text Label 2150 4800 0    50   ~ 0
+	2400 5000 2150 5000
+Text Label 2150 5000 0    50   ~ 0
 CS
 Text Label 3200 5300 0    50   ~ 0
 LIGHT
